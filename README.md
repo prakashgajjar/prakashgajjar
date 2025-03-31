@@ -6,7 +6,7 @@ I'm a passionate **full-stack web developer** with expertise in building scalabl
 
 ### ⚙️ **Tech Stack**
 - 💻 **Frontend:** HTML5, CSS3, Tailwind CSS, JavaScript, React.js, Next.js  
-- 🛠️ **Backend:** Node.js, Express.js, Flask, Django (learning)  
+- 🛠️ **Backend:** Node.js, Express.js, Flask, 
 - 🔥 **Database:** MongoDB (Mongoose), PostgreSQL, Prisma  
 - 📦 **Tools & Platforms:** Git, GitHub, Vercel, Netlify, Docker  
 - 🤖 **AI & ML:** Python (learning AI/ML from scratch)  
