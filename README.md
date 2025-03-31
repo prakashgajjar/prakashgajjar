@@ -18,8 +18,7 @@ I'm a passionate **full-stack web developer** with expertise in building scalabl
 - 🌟 **Novio**: An **AI-powered e-commerce website** for clothing, beauty, and more, featuring intelligent product recommendations.  
 - 💬 **WhatsApp Clone**: A **MERN stack** real-time chat application with personal and group messaging.  
 - 🤖 **AI PDF Reader**: An AI tool that answers questions based on PDF content.  
-- 🎥 **YouTube Clone**: A full-fledged **YouTube-like platform** (in-progress).  
-- 🌍 **NSS College Website**: A web platform for the **NSS unit** of my college, showcasing events and activities.  
+- 🎥 **YouTube Clone**: A full-fledged **YouTube-like platform** (in-progress).   
 - 🛒 **Fashion Brand Website – Novio:** An **e-commerce website** for my own fashion brand with the tagline **"Fashion is Freedom"**.  
 
 ---
