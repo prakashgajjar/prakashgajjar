@@ -28,8 +28,7 @@ I'm a passionate **full-stack web developer** with expertise in building scalabl
 - 🔥 **Next.js**: Mastering full-stack web development.  
 - 🐍 **Python AI/ML**: Exploring artificial intelligence and machine learning with Python.  
 - 🔌 **Socket.io**: Building real-time communication features.  
-- 🐘 **PostgreSQL & Prisma**: Strengthening backend and database skills.  
-- 🛠️ **Flask & Django**: Enhancing backend capabilities with Python frameworks.  
+- 🐘 **PostgreSQL & Prisma**: Strengthening backend and database skills.   
 
 ---
 
@@ -45,8 +44,8 @@ I'm always excited to collaborate on:
 ### 📫 **How to Reach Me**
 - 💬 **GitHub:** [Prakash Suthar](https://github.com/prakashgajjar)  
 - 🌐 **Portfolio Website:** (Coming Soon 🚀)  
-- 📧 **Email:** (Add your email here if you want)  
-- 💻 **LinkedIn:** (If you have one, add the link)  
+- 📧 **Email:** prakashgajjar06@gmail.com 
+- 💻 **LinkedIn:** https://www.linkedin.com/in/prakash-suthar-15968127a/ 
 
 ---
 
