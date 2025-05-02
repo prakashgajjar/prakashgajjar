@@ -43,7 +43,7 @@ I'm always excited to collaborate on:
 ### 📫 **How to Reach Me**
 - 💬 **GitHub:** [Prakash Suthar](https://github.com/prakashgajjar)  
 - 🌐 **Portfolio Website:** (Coming Soon 🚀)  
-- 📧 **Email:** prakashgajjar06@gmail.com 
+- 📧 **Email:** prakashgajjar096@gmail.com 
 - 💻 **LinkedIn:** https://www.linkedin.com/in/prakash-suthar-15968127a/ 
 
 ---
