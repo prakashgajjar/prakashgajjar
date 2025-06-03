@@ -19,20 +19,18 @@ I'm a passionate **Full-Stack Web Developer** skilled in building scalable and d
 
 ### 🚀 Current Projects
 
-- 🔥 **Novio** – An **AI-powered fashion e-commerce** website featuring intelligent product recommendations.  
-- 💬 **WhatsApp Clone** – A **MERN stack** chat app with real-time personal & group messaging.  
-- 🤖 **AI PDF Reader** – An AI tool that understands and answers questions based on PDF content.  
-- 🎥 **YouTube Clone** – A complete video-sharing platform (in-progress).  
 - 🛍️ **Fashion Brand – Novio** – E-commerce website with the motto: *"Fashion is Freedom"*.
+- 💬 **WhatsApp Clone** – A **MERN stack** chat app with real-time personal & group messaging.  
+- 🎥 **YouTube Clone** – A complete video-sharing platform (in-progress).  
 
 ---
 
 ### 🌱 Currently Learning
 
-- ⚡ **Next.js** – Building scalable full-stack web apps  
-- 🤖 **Python AI/ML** – From scratch: algorithms, models, applications  
+- ⚡ **Next.js** – Building scalable full-stack web apps   
 - 🔌 **Socket.io** – Real-time chat & features  
 - 🐘 **PostgreSQL + Prisma** – Strengthening backend DB logic
+- 📘 **DSA in Java** – Currently learning **Data Structures & Algorithms** in Java to strengthen core problem-solving skills. 
 
 ---
 
