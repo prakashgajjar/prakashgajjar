@@ -1,56 +1,84 @@
-# 👋 Hey there, I'm [Prakash Suthar](https://github.com/prakashgajjar)  
-💻 **Full-Stack Developer | AI Enthusiast | Tech Explorer**  
+# 👋 Hey there, I'm [Prakash Suthar](https://github.com/prakashgajjar)
 
-### 🌐 **About Me**
-I'm a passionate **full-stack web developer** with expertise in building scalable and dynamic web applications. I enjoy transforming ideas into reality through clean, efficient, and maintainable code. Always eager to **learn new technologies**, I thrive on solving complex problems and creating meaningful projects.
-
-### ⚙️ **Tech Stack**
-- 💻 **Frontend:** HTML5, CSS3, Tailwind CSS, JavaScript, React.js, Next.js  
-- 🛠️ **Backend:** Node.js, Express.js, Flask, 
-- 🔥 **Database:** MongoDB (Mongoose), PostgreSQL, Prisma  
-- 📦 **Tools & Platforms:** Git, GitHub, Vercel, Netlify, Docker  
-- 🤖 **AI & ML:** Python (learning AI/ML from scratch)  
-- ⚡ **Real-Time Features:** Socket.io (personal and group chat)  
+### 💻 Full-Stack Developer | AI Enthusiast | Tech Explorer
 
 ---
 
-### 🚀 **Current Projects**
-- 🌟 **Novio**: An **AI-powered e-commerce website** for clothing, beauty, and more, featuring intelligent product recommendations.  
-- 💬 **WhatsApp Clone**: A **MERN stack** real-time chat application with personal and group messaging.  
-- 🤖 **AI PDF Reader**: An AI tool that answers questions based on PDF content.  
-- 🎥 **YouTube Clone**: A full-fledged **YouTube-like platform** (in-progress).   
-- 🛒 **Fashion Brand Website – Novio:** An **e-commerce website** for my own fashion brand with the tagline **"Fashion is Freedom"**.  
+### 🌐 About Me
+I'm a passionate **Full-Stack Web Developer** skilled in building scalable and dynamic applications. I love transforming ideas into clean, efficient, and maintainable code. Always curious and constantly learning new technologies, I enjoy solving real-world problems through tech.
 
 ---
 
-### 🌱 **Currently Learning**
-- 🔥 **Next.js**: Mastering full-stack web development.  
-- 🐍 **Python AI/ML**: Exploring artificial intelligence and machine learning with Python.  
-- 🔌 **Socket.io**: Building real-time communication features.  
-- 🐘 **PostgreSQL & Prisma**: Strengthening backend and database skills.   
+### 🧰 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,nodejs,express,flask,mongodb,postgres,prisma,python,git,github,docker,vercel,netlify,fastapi" />
+</p>
 
 ---
 
-### 🤝 **Open to Collaboration**
-I'm always excited to collaborate on:  
-- 🔥 **Full-stack web applications**  
-- 🤖 **AI/ML projects**  
-- 🚀 **Open-source contributions**  
-- 💡 **Innovative tech ideas**  
+### 🚀 Current Projects
+
+- 🔥 **Novio** – An **AI-powered fashion e-commerce** website featuring intelligent product recommendations.  
+- 💬 **WhatsApp Clone** – A **MERN stack** chat app with real-time personal & group messaging.  
+- 🤖 **AI PDF Reader** – An AI tool that understands and answers questions based on PDF content.  
+- 🎥 **YouTube Clone** – A complete video-sharing platform (in-progress).  
+- 🛍️ **Fashion Brand – Novio** – E-commerce website with the motto: *"Fashion is Freedom"*.
 
 ---
 
-### 📫 **How to Reach Me**
-- 💬 **GitHub:** [Prakash Suthar](https://github.com/prakashgajjar)  
-- 🌐 **Portfolio Website:** (Coming Soon 🚀)  
-- 📧 **Email:** prakashgajjar096@gmail.com 
-- 💻 **LinkedIn:** https://www.linkedin.com/in/prakash-suthar-15968127a/ 
+### 🌱 Currently Learning
+
+- ⚡ **Next.js** – Building scalable full-stack web apps  
+- 🤖 **Python AI/ML** – From scratch: algorithms, models, applications  
+- 🔌 **Socket.io** – Real-time chat & features  
+- 🐘 **PostgreSQL + Prisma** – Strengthening backend DB logic
 
 ---
 
-### ⚡ **Fun Fact**
-I’m always curious to **learn new technologies** and push the boundaries of what's possible with **code and AI**. 🚀
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=prakashgajjar&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakashgajjar&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 
 ---
 
-🔥 **Let's build something amazing together!** 💻🚀
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=prakashgajjar&theme=tokyonight&margin-w=15&no-frame=true&no-bg=true" />
+</p>
+
+---
+
+### 🧩 GitHub Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prakashgajjar&theme=tokyo-night" />
+</p>
+
+---
+
+### 🤝 Open to Collaboration
+
+I'm open to working on:
+- 💻 Full-stack web applications
+- 🤖 AI/ML-powered tools
+- 🧠 Open-source contributions
+- 🚀 Innovative startup ideas
+
+---
+
+### 📫 Contact Me
+
+- 📧 **Email:** prakashgajjar096@gmail.com  
+- 💼 **LinkedIn:** [prakash-suthar](https://www.linkedin.com/in/prakash-suthar-15968127a/)  
+- 💻 **GitHub:** [prakashgajjar](https://github.com/prakashgajjar)  
+- 🌐 **Portfolio Website:** Coming soon 🚀
+
+---
+
+### ⚡ Fun Fact
+I’m endlessly curious about code, AI, and turning imagination into innovation. Let’s build something amazing together! 💻🚀
