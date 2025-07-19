@@ -88,7 +88,7 @@ I'm excited to work on:
 
 - 📧 **Email:** [prakashgajjar096@gmail.com](mailto:prakashgajjar096@gmail.com)  
 - 💼 **LinkedIn:** [Prakash Suthar](https://www.linkedin.com/in/prakash-suthar-15968127a/)  
-- 🌐 **Portfolio (https://prakashsuthar.me)
+- 🌐 **Portfolio:**[prakash.dev](https://prakashsuthar.me/)
 
 ---
 
