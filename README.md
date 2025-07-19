@@ -34,7 +34,7 @@ I'm a passionate **Full-Stack Web Developer** who turns ideas into production-re
 - 💬 **WhatsApp Clone (MERN)**  
   Real-time personal & group chat app with socket.io & MongoDB.
 
-- 🎥 **YouTube Clone** *(in progress)*  
+- 🎥 **YouTube Clone (Next js)**  
   Video-sharing platform with subscriptions & content upload features.
 
 ---
