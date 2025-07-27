@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm [Prakash Suthar](https://github.com/prakashgajjar)
 
-### 💻 Full-Stack Developer | 🚀 AI Explorer | 🔥 Startup Enthusiast
+### 💻 Full-Stack Developer | 🚀 AI/ML Explorer | 🔥 Startup Enthusiast
 
 ---
 
