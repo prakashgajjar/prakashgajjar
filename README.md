@@ -92,4 +92,4 @@ I'm excited to work on:
 
 ---
 
-> Built with ❤️ by Prakash Suthar | *Fuelled by Chai ☕ and Big Dreams 💡*
+> Built by Prakash Suthar
