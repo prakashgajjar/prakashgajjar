@@ -49,30 +49,6 @@ I'm a passionate **Full-Stack Web Developer** who turns ideas into production-re
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prakashgajjar&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakashgajjar&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-### 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=prakashgajjar&theme=tokyonight&margin-w=15&no-frame=true&no-bg=true" />
-</p>
-
----
-
-### 📊 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prakashgajjar&theme=tokyo-night" />
-</p>
-
----
 
 ### 🤝 Let's Collaborate!
 
